@@ -7,3 +7,21 @@
         text-align: center;
         color: rgb(65, 122, 96);
     }
+
+    .segundo-titulo {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+    }

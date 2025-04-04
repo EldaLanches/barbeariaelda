@@ -21,7 +21,7 @@ body {
 
 .principal {
     background-color: #f4fff5;
-    padding:20px;
+    padding: 20px;
     margin: 0px;
 
 }
@@ -29,4 +29,10 @@ body {
 .titulo2 {
     background-color: #e6fdcf;
     margin: 0px;
+}
+
+.beneficios {
+    padding: 20px;
+    margin: 0px;
+
 }

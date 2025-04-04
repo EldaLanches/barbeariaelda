@@ -14,19 +14,20 @@ body {
     text-align: center;
     color: #1d362b;
     background-color: #e6fdcf;
-    padding: 50px;
+    padding: 40px;
     margin: 0px;
 
 }
 
 .principal {
     background-color: #f9fdf7;
-    padding: 20px;
+    padding: 100px;
     margin: 0px;
 
 }
 
 .titulo2 {
+    text-align: center;
     background-color: #e6fdcf;
     margin: 0px;
 }
@@ -50,7 +51,7 @@ ul {
 
 }
 
-.imagembeneficios{
-width: 50%;
+.imagembeneficios {
+    width: 50%;
 
 }

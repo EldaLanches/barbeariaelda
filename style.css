@@ -1,26 +1,30 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-    
+
 }
 
-#banner{
-        width: 100%;
-    }
+#banner {
+    width: 100%;
+}
 
-    .titulo-principal{
-        text-transform: uppercase;
-        text-align: center;
-        color: #1d362b;
-        background-color: #e6fdcf;
-        padding: 50px;
-        margin:0px;
+.titulo-principal {
+    text-transform: uppercase;
+    text-align: center;
+    color: #1d362b;
+    background-color: #e6fdcf;
+    padding: 50px;
+    margin: 0px;
 
-    }
+}
 
-    .titulo2{
-        background-color: #e6fdcf;
-        margin:0px;
-    }
-    
+.principal {
+    background-color: rgb(0, 255, 42);
+
+}
+
+.titulo2 {
+    background-color: #e6fdcf;
+    margin: 0px;
+}

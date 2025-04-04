@@ -44,7 +44,7 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%
-    
+    font
 }
 
 .itens {
@@ -54,5 +54,10 @@ ul {
 
 .imagembeneficios {
     width: 50%;
+
+}
+
+p {
+    text-align: center;
 
 }

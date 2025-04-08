@@ -23,3 +23,17 @@ display: inline;
 margin: 0 0 0 15px;
 
 }
+
+nav a { 
+text-transform: uppercase;
+color: #00f7ff;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;
+
+}
+
+nav a:hover {
+color: #80ff00;
+text-decoration: underline;
+}

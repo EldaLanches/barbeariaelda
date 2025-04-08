@@ -1,5 +1,5 @@
 header {
-background: #bdadad;
+background: #e6fdcf;
 padding: 20px 0;
 
 }
@@ -8,5 +8,12 @@ padding: 20px 0;
 position: relative;
 width: 940px;
 margin: 0 auto;
+
+}
+
+nav{ 
+position: absolute;
+top: 110px;
+right: 0 auto;
 
 }

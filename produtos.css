@@ -30,11 +30,15 @@ color: #023305;
 font-weight: bold;
 font-size: 22px;
 text-decoration: none;
-text-align: start;
 
 }
 
 nav a:hover {
 color: #e100ff;
 text-decoration: underline;
+}
+
+.link {
+text-align: start;
+
 }

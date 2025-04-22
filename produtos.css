@@ -90,19 +90,23 @@ nav a:hover {
 }
 
 .produto-descricao {
-font-size: 18px;
+    font-size: 18px;
 
 }
 
 footer {
-text-align: center;
-background: url(bg.jpg);
+    text-align: center;
+    background: url(bg.jpg);
 
 }
 
 .copyright {
-color: rgb(255, 0, 128);
-font-size: 13px;
-margin: 20px 0 0;
+    color: rgb(255, 0, 128);
+    font-size: 13px;
+    margin: 20px 0 0;
 
+}
+
+img {
+    text-align: center
 }

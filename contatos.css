@@ -1,15 +1,23 @@
+
+body{
+	margin : 0px;
+	padding: 0px;
+}
+
 h1 {
 text-align: center;
 background-color: rgb(150, 253, 167);
-
 }
 
-.center {
-text-align: center;
-
-}
-
-.button {
+button {
     text-align: center;
+}
 
+form{
+  width: 50%;
+  margin: 50px auto; /* centraliza horizontalmente e adiciona margem superior */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #e6fdcf;
 }

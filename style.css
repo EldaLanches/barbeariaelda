@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0px;
     padding: 0px;
@@ -39,7 +41,8 @@ body {
 
 }
 
-ul {
+/* tem que por o principal aqui pra nao alterar todas as listas */
+.principal ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
@@ -59,5 +62,51 @@ ul {
 
 p {
     text-align: center;
+
+}
+
+
+/* MENU */
+header {
+    background: #e6fdcf;
+    padding: 20px 0;
+
+}
+
+.caixa {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0 auto;
+
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #023305;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+nav a:hover {
+    color: #e100ff;
+    text-decoration: underline;
+    color: rgb(21, 255, 0);
+    text-decoration: underline;
 
 }

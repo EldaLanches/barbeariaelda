@@ -6,7 +6,7 @@ body{
 
 h1 {
 text-align: center;
-background-color: #849671;
+background-color:#d2ffa4;
 }
 
 button {
@@ -19,5 +19,5 @@ form{
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 8px;
-  background-color: #cde0ba;
+  background-color: #e6fdcf;
 }
